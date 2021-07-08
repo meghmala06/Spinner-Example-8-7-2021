@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpinnerviewApplication</string>
+    <string-array name="cities">
+
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Pune</item>
+        <item>Kolhapur</item>
+        <item>Nashik</item>
+        <item>Nagpur</item>
+    </string-array>
+</resources>
